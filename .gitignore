@@ -5,3 +5,4 @@ results/*_mock.json
 results/figures/*_mock.png
 .ipynb_checkpoints/
 results/cache/
+data/processed.parquet
