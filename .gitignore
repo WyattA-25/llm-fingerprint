@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+data/mock_*
+results/*_mock.json
+results/figures/*_mock.png
+.ipynb_checkpoints/
+results/cache/
