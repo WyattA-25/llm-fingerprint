@@ -46,3 +46,6 @@ Scripts pick CUDA, then Apple MPS, then CPU automatically. All runs are seeded.
 Every finished training run is cached in `results/cache/` (keyed by config, seed, and a
 hash of the exact data), so if the machine restarts, rerunning `python run_all.py` skips
 completed runs and resumes. `python run_all.py --only rq3 rq4` runs selected steps.
+
+## Report
+The final report is [report/report.pdf](report/report.pdf).
